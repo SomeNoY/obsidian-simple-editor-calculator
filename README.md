@@ -1,6 +1,6 @@
 # Simple Editor Calculator for Obsidian
 
-![demo of functionality](assets\demo.gif)
+![demo of functionality](https://github.com/SomeNoY/obsidian-simple-editor-calculator/blob/master/assets/demo.gif)
 
 Very simple plugin that can calculate expressions in editor.
 
