@@ -15,5 +15,5 @@ You also can bind any command in Obsidian settings.
 ## Commands
 
 - **Calculate** - calculates expression and formmats to `mono`
-- **Calcualte without formatting** - doing the same as **Calculate** but without `mono` formatting
+- **Calculate without formatting** - doing the same as **Calculate** but without `mono` formatting
 - **Calculate with replacement** - replaces expression with result

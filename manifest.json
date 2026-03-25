@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-simple-editor-calculator",
 	"name": "Simple Editor Calculator",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Very simple plugin that can calculate expressions in editor.",
 	"author": "SomeNoY",
